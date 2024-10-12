@@ -1,5 +1,5 @@
 # Login-Page                       
-A login page built with HTML, CSS & Vanilla Javascript.                            
+A login page built with HTML, CSS & Javascript.                            
 <h1>Website Link:</h1>                                           
 https://login-the-page.netlify.app/
 <h1>Output Video:</h1>
